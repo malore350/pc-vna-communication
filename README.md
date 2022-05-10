@@ -7,5 +7,5 @@
 3. Visualization: Automatic visualisation of the VNA output on the GUI.
 4. Save: Save the obtained data, with the custom dialog.
 
-### Custom GUI
+### Custom GUI:
 Custom-made GUI that can access all the functionalities in a single window, with a space to visualize the obtained plots of data
