@@ -1,6 +1,6 @@
 # The QT designer-compatible files for the PC-VNA communication
 
-## Control the Network Analyser with an external device
+## Control the Vector Network Analyser with an external device
 ### Basic Functionality:
 1. Measurement: The chain of data processing algorithms that take raw data from the channel and make it ready for display. Output is the S-Parameters of measurement in frequency domain. Control start/stop frequency, measurement sample points, pick S-Parameter of interest.
 2. Transform: Transform the S-parameters from frequency to time domain. Control start/stop time.
